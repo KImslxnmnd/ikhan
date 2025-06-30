@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="refresh" content="0; url=https://facebook.com" />
+    <title>Redirecting.... to Wix.co</title>
+  </head>
+  <body>
+    <p>Redirecting to Wix.com<a href="https://facebook.com">Wix.com</a>...</p>
+  </body>
+</html>
